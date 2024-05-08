@@ -211,7 +211,7 @@ qubits 2
 > Da bi cQASM bio čitljiviji, moguće je dodeliti mnemoničko ime kjubitu ili klasičnom bitu. Za ovo se koristi instrukcija mape:
 
 ```
-version 1.0
+# version 1.0
 qubits 2
 map q[0], Control
 map q[1], Target
