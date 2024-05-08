@@ -22,6 +22,8 @@
 
 LINK: https://www.youtube.com/watch?v=FWZCBj6lhCc&ab_channel=AktivistNo2
 
+ZANIMLJIV RESURS: https://www.quantum-inspire.com/kbase/full-adder/
+
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### KVANTNI RAČUNARI
