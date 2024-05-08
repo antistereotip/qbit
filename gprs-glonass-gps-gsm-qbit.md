@@ -11,6 +11,8 @@ U 2003. maksimalna brzina je bila 30—40 kB/s, dok je kašnjenje u minimumu var
 
 ##### GLONASS
 
+![](media/Glonass.png)
+
 > - GLONASS (ruski: ГЛОбальная НАвигационная Спутниковая Система), doslovno: "globalni navigacijski satelitski sistem") je satelitski navigacijski sistem koji je 
 započeo SSSR 1976. Po raspadu Sovjetskog Saveza, Rusija je preuzela projekat i on se trenutno nalazi u nadležnosti ruskih svemirskih snaga. Sistem je zamišljen 
 kao mreža od 24 geostacionarna satelita koji metodom trilateracije definišu poziciju objekta na površini Zemlje i prijemniku šalju podatke o njegovoj poziciji.
