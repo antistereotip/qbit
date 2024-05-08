@@ -1,4 +1,4 @@
-`
+( ~~~ )
 # a basic cQASM example
 qubits 2
 
@@ -11,7 +11,7 @@ qubits 2
 
 .measurement
     measure_all
-`
+( ~~~ )
 
 
 > ### Qbit - Kjubit !
