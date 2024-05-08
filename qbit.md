@@ -112,7 +112,8 @@ proces u pospunosti i tu je zapravo moć kvante fizike.
 > - Šredingerova mačka je misaoni eksperiment, uobičajeno opisan kao paradoks, koji je osmislio austrijski fizičar Ervin Šredinger 1935. godine. Eksperiment
 ukazuje na ono što je on smatrao problemom kopenhagenske interpretacije kvantne mehanike, primenjene na svakodnevne objekte, koji rezultuje sukobom sa
 zdravim razumom. U ovom eksperimentu se predstavlja da mačka može biti i živa i mrtva, u zavisnosti od prethodnih nasumičnih događaja. Iako je prvobitni
-"eksperiment" bio imaginaran, slični principi su bili istraživani i korišćeni u praktičnoj primeni. Mačkin paradoks je takođe često bio predmet teorijskih rasprava i interpretacija kvantne mehanike. Razvijajući ovaj eksperiment, Šredinger je skovao termin uplitanje (nem. Verschränkung).
+"eksperiment" bio imaginaran, slični principi su bili istraživani i korišćeni u praktičnoj primeni. Mačkin paradoks je takođe često bio predmet teorijskih rasprava i interpretacija kvantne mehanike. Razvijajući ovaj eksperiment, Šredinger je skovao termin uplitanje (nem. Verschränkung). Kjubit se takođe može sagledati iz tog ugla.
+Dok posmatramo mačku (običan bit), ona je mrtva, ali čim prestanemo da je posmatramo ona je mrtva (Kjubit).
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
