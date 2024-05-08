@@ -15,13 +15,13 @@
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
-![](qbit1.png)
+![](media/qbit1.png)
 
 #### KVANTNA MEHANIKA. KOJ MI TO K**** ZNAMO ? OBAVEZNO ODGLEDATI FILM, LINK JE ISPOD.
 
-LINK: https://www.youtube.com/watch?v=FWZCBj6lhCc&ab_channel=AktivistNo2
+###### LINK: https://www.youtube.com/watch?v=FWZCBj6lhCc&ab_channel=AktivistNo2
 
-ZANIMLJIV RESURS: https://www.quantum-inspire.com/kbase/full-adder/
+###### ZANIMLJIV RESURS: https://www.quantum-inspire.com/kbase/full-adder/
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
@@ -37,7 +37,7 @@ superpozicije, interferencije i preplitanja čini kubite fundamentalno drugačij
 druge kvantne informacione tehnologije, potrebni su nam kvantni objekti koji će delovati kao kubiti. Naučnici su naučili da iskoriste i kontrolišu mnoge
 fizičke sisteme da deluju kao kjubiti. Ovo nam omogućava da uskladimo zahteve različitih kvantnih tehnologija sa prednostima svake vrste kjubita.
 
-![](qbit2.png)
+![](media/qbit2.png)
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
@@ -107,10 +107,13 @@ proces u pospunosti i tu je zapravo moć kvante fizike.
 
 #### ŠERDINGEROVA MAČKA
 
+![](media/Sredingerova-macka.png)
+
 > - Šredingerova mačka je misaoni eksperiment, uobičajeno opisan kao paradoks, koji je osmislio austrijski fizičar Ervin Šredinger 1935. godine. Eksperiment
 ukazuje na ono što je on smatrao problemom kopenhagenske interpretacije kvantne mehanike, primenjene na svakodnevne objekte, koji rezultuje sukobom sa
 zdravim razumom. U ovom eksperimentu se predstavlja da mačka može biti i živa i mrtva, u zavisnosti od prethodnih nasumičnih događaja. Iako je prvobitni
-"eksperiment" bio imaginaran, slični principi su bili istraživani i korišćeni u praktičnoj primeni. Mačkin paradoks je takođe često bio predmet teorijskih rasprava i interpretacija kvantne mehanike. Razvijajući ovaj eksperiment, Šredinger je skovao termin uplitanje (nem. Verschränkung).
+"eksperiment" bio imaginaran, slični principi su bili istraživani i korišćeni u praktičnoj primeni. Mačkin paradoks je takođe često bio predmet teorijskih rasprava i interpretacija kvantne mehanike. Razvijajući ovaj eksperiment, Šredinger je skovao termin uplitanje (nem. Verschränkung). Kjubit se takođe može sagledati iz tog ugla.
+Dok posmatramo mačku (običan bit), ona je mrtva, ali čim prestanemo da je posmatramo ona je mrtva (Kjubit).
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
@@ -146,7 +149,7 @@ Enkripcije, Modova, Botova... (reversibilni procesi) itd.
 zemlji. Marijana radi na kvantnim proračunima i poseduje najviše kvantih računara. Sve što postoji na zemli, tajno ili javno i na nebu i na vasioni - Marijana 
 to zna. Marijani ne može da se pristupi običnim računarima, već samo preko kjubita. Ona koristi kjubit kao sredstvo plaćanja. Na taj način ona hrani sebe.
 Marijana ima npr. *n* nivoa koji su u istom redu paralelno. Svih *n* nivoa su namenjeni proračunima. U svakom od tih *n* nivoa postoje jos po *n* nivoa. 
-*n* nivoa* je samo metafora - ali u realnom vremenu. Svaki nivo u svakoj paralelnoj sobi može recimo navoditi navoditi rakete visokog i niskog dometa. 
+*n* nivoa je samo metafora - ali u realnom vremenu. Svaki nivo u svakoj paralelnoj sobi može recimo navoditi navoditi rakete visokog i niskog dometa. 
 Može aktivirati 4, 5, 6, 7, n, nuklearnih bombi u samo jednoj milisekundi. Može čitati sadržaj bilo koje sobe unutar zidova kuće, stana, zgrade, objekta i 
 to u realnom vremenu kao da je u objektu. Kod ovakvog Weba nemoguće je sakriti bilo šta. Ljudi koji ga kontrolišu su vrlo moćni ljudi kojih je jako malo, 
 ali imaju ogromnu armiju ratnika koji rade na proračunima. Čitavo zlo čovečanstva, kao i luciferov presto je u Marijana Webu. Da stavimo tačku na ovo jer o 
