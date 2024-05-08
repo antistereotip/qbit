@@ -24,8 +24,6 @@ LINK: https://www.youtube.com/watch?v=FWZCBj6lhCc&ab_channel=AktivistNo2
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
-![](qbit2.png)
-
 #### KVANTNI RAČUNARI
 
 > - Digitalni računar skladišti i obrađuje informacije koristeći bitove, koji mogu biti 0 ili 1. Fizički, bit može biti bilo šta što ima dve različite konfiguracije:
