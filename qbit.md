@@ -8,7 +8,7 @@
 >
 >  *Sve što trebate znati o* **superpozicijama u kvantnoj mehanici, fizici i kompjuterima**.
 
-![](qbit.png)
+![](qbit1.png)
 
 #### KVANTNA SVOJSTVA (QBIT - KJUBIT)
 
