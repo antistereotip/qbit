@@ -1,6 +1,6 @@
 
 > ### Qbit - Kjubit !
->
+
 > - Svojstva kjubita.
 > - Kvantni računari.
 > - Kvantna mehanika.
