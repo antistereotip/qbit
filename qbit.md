@@ -106,8 +106,8 @@ proces u pospunosti i tu je zapravo moć kvante fizike.
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### ŠERDINGEROVA MAČKA
-Sredingerova-macka.png
-![](./media/Sredingerova-macka.png =250x)
+
+![](media/Sredingerova-macka.png)
 
 > - Šredingerova mačka je misaoni eksperiment, uobičajeno opisan kao paradoks, koji je osmislio austrijski fizičar Ervin Šredinger 1935. godine. Eksperiment
 ukazuje na ono što je on smatrao problemom kopenhagenske interpretacije kvantne mehanike, primenjene na svakodnevne objekte, koji rezultuje sukobom sa
