@@ -6,7 +6,7 @@ merenja potrebna da bi se dobio klasični rezultat pregledom kjubita. Mnoge vari
 generisanje slika. Kuantum Inspire koristi cQASM 1.0. Kad god se na ovom sajtu pominje QASM ili cQASM, to se odnosi na cQASM 1.0 osim ako nije izričito navedeno
 drugačije. cQASM se koristi za opisivanje relativno jednostavnih kola, što je dobro za trenutnu generaciju kvantnih računara. U budućnosti će biti potreban viši nivo apstrakcije da bi se suočili sa milijardama kubita potrebnih da se napravi praktični kvantni računar.
 
-##### Basic Example
+##### Osnovni primer
 
 > Počnimo sa primerom gde kreiramo stanje zvona da bismo stekli osećaj za jezik:
 
