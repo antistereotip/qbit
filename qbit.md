@@ -1,4 +1,3 @@
-
 > ### Qbit - Kjubit !
 >
 > - Svojstva kjubita.
@@ -8,8 +7,6 @@
 >
 >  *Sve što trebate znati o* **superpozicijama u kvantnoj mehanici, fizici i kompjuterima**.
 
-![](qbit1.png)
-
 #### KVANTNA SVOJSTVA (QBIT - KJUBIT)
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!! 
@@ -17,6 +14,8 @@
 #### SUPERKOMPJUTERI I KJUBIT, RAČUNARI SA VISOKIM PERFORMANSAMA I OGROMNIM BRZIM PRORAČUNIMA.
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
+
+![](qbit1.png)
 
 #### KVANTNA MEHANIKA. KOJ MI TO K**** ZNAMO ? OBAVEZNO ODGLEDATI FILM, LINK JE ISPOD.
 
@@ -177,6 +176,34 @@ tehnologija (Tačka na više tačaka brisanim prostorom) - Tu je potrebno raspr�
 to su samo neki primeri kvantnih svojstava prenošenja svetla kvantnim putem.
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
+
+#### cQASM: kvantni programski jezik
+
+> - QASM je nastao kao jezik za formalno definisanje kvantnog kola za prikazivanje slika u svrhu vizuelizacije. Kako se kvantno računanje razvijalo, jezik je usvojen
+kao način da se specifikuju kvantna kola kao ulaz za kvantni računar. QASM program deklariše klasične bitove i kjubite, opisuje operacije (gejtove) na tim kjubitima i
+merenja potrebna da bi se dobio klasični rezultat pregledom kjubita. Mnoge varijante KASM-a su ugledale svetlost od svog nastanka kao jezik za označavanje za
+generisanje slika. Kuantum Inspire koristi cQASM 1.0. Kad god se na ovom sajtu pominje QASM ili cQASM, to se odnosi na cQASM 1.0 osim ako nije izričito navedeno
+drugačije. cQASM se koristi za opisivanje relativno jednostavnih kola, što je dobro za trenutnu generaciju kvantnih računara. U budućnosti će biti potreban viši nivo apstrakcije da bi se suočili sa milijardama kubita potrebnih da se napravi praktični kvantni računar.
+
+##### Osnovni primer
+
+> Počnimo sa primerom gde kreiramo stanje zvona da bismo stekli osećaj za jezik:
+
+```
+# a basic cQASM example
+qubits 2
+
+.prepare
+    prep_z q[0:1]
+
+.entangle
+    H q[0]
+    CNOT q[0], q[1]
+
+.measurement
+    measure_all
+```
+Izvor: https://www.quantum-inspire.com/kbase/cqasm/
 
 #### ZIGBEE KVANTNI NAČIN SLANJA PORUKE
 
