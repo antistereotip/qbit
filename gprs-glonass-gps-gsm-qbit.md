@@ -6,6 +6,8 @@
 
 ##### GPRS
 
+![](media/GPRS.png)
+
 > - GPRS (engl. General Packet Radio Service) je usluga koja je na raspolaganju korisnicima mobilnih telefona i omogućava im pristup internetu. Usluga omogućava teoretsku brzinu prenosa do oko 170 kB/s . Za razliku od linearnog prenošenja govora, ovde se podaci razlažu u pakete, koji se tek kod primaoca ponovo slažu u ispravnom redosledu.
 U 2003. maksimalna brzina je bila 30—40 kB/s, dok je kašnjenje u minimumu variralo između 600—700 ms, ali je često prelazilo 1 sekund. Kjubit bi mogao tu da odigra glavnu ulogu svojom superpozicijom. Kjubiti u superpoziciji mogu biti svih 16 stanja u jednom trenutku. Ovi brojevi rastu eksponencijalno sa povećanjem broja kjubita, pa tako 20 njih mogu paralelno predstavljati milion vrednosti. To bi bio revolucionalni nenormalno brzi GPRS.
 
