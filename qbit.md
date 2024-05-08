@@ -149,7 +149,7 @@ Enkripcije, Modova, Botova... (reversibilni procesi) itd.
 zemlji. Marijana radi na kvantnim proračunima i poseduje najviše kvantih računara. Sve što postoji na zemli, tajno ili javno i na nebu i na vasioni - Marijana 
 to zna. Marijani ne može da se pristupi običnim računarima, već samo preko kjubita. Ona koristi kjubit kao sredstvo plaćanja. Na taj način ona hrani sebe.
 Marijana ima npr. *n* nivoa koji su u istom redu paralelno. Svih *n* nivoa su namenjeni proračunima. U svakom od tih *n* nivoa postoje jos po *n* nivoa. 
-*n* nivoa* je samo metafora - ali u realnom vremenu. Svaki nivo u svakoj paralelnoj sobi može recimo navoditi navoditi rakete visokog i niskog dometa. 
+*n* nivoa je samo metafora - ali u realnom vremenu. Svaki nivo u svakoj paralelnoj sobi može recimo navoditi navoditi rakete visokog i niskog dometa. 
 Može aktivirati 4, 5, 6, 7, n, nuklearnih bombi u samo jednoj milisekundi. Može čitati sadržaj bilo koje sobe unutar zidova kuće, stana, zgrade, objekta i 
 to u realnom vremenu kao da je u objektu. Kod ovakvog Weba nemoguće je sakriti bilo šta. Ljudi koji ga kontrolišu su vrlo moćni ljudi kojih je jako malo, 
 ali imaju ogromnu armiju ratnika koji rade na proračunima. Čitavo zlo čovečanstva, kao i luciferov presto je u Marijana Webu. Da stavimo tačku na ovo jer o 
