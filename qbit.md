@@ -15,7 +15,7 @@
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
-![](qbit1.png)
+![](media/qbit1.png)
 
 #### KVANTNA MEHANIKA. KOJ MI TO K**** ZNAMO ? OBAVEZNO ODGLEDATI FILM, LINK JE ISPOD.
 
@@ -37,7 +37,7 @@ superpozicije, interferencije i preplitanja čini kubite fundamentalno drugačij
 druge kvantne informacione tehnologije, potrebni su nam kvantni objekti koji će delovati kao kubiti. Naučnici su naučili da iskoriste i kontrolišu mnoge
 fizičke sisteme da deluju kao kjubiti. Ovo nam omogućava da uskladimo zahteve različitih kvantnih tehnologija sa prednostima svake vrste kjubita.
 
-![](qbit2.png)
+![](media/qbit2.png)
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
@@ -106,6 +106,8 @@ proces u pospunosti i tu je zapravo moć kvante fizike.
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### ŠERDINGEROVA MAČKA
+
+![](media//Sredingerova-macka.png)
 
 > - Šredingerova mačka je misaoni eksperiment, uobičajeno opisan kao paradoks, koji je osmislio austrijski fizičar Ervin Šredinger 1935. godine. Eksperiment
 ukazuje na ono što je on smatrao problemom kopenhagenske interpretacije kvantne mehanike, primenjene na svakodnevne objekte, koji rezultuje sukobom sa
