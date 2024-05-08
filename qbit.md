@@ -187,7 +187,7 @@ to su samo neki primeri kvantnih svojstava prenošenja svetla kvantnim putem.
 
 > - QASM je nastao kao jezik za formalno definisanje kvantnog kola za prikazivanje slika u svrhu vizuelizacije. Kako se kvantno računanje razvijalo, jezik je usvojen
 kao način da se specifikuju kvantna kola kao ulaz za kvantni računar. QASM program deklariše klasične bitove i kjubite, opisuje operacije (gejtove) na tim kjubitima i
-merenja potrebna da bi se dobio klasični rezultat pregledom kjubita. Mnoge varijante KASM-a su ugledale svetlost od svog nastanka kao jezik za označavanje za
+merenja potrebna da bi se dobio klasični rezultat pregledom kjubita. Mnoge varijante QASM-a su ugledale svetlost od svog nastanka kao jezik za označavanje za
 generisanje slika. Kuantum Inspire koristi cQASM 1.0. Kad god se na ovom sajtu pominje QASM ili cQASM, to se odnosi na cQASM 1.0 osim ako nije izričito navedeno
 drugačije. cQASM se koristi za opisivanje relativno jednostavnih kola, što je dobro za trenutnu generaciju kvantnih računara. U budućnosti će biti potreban viši nivo apstrakcije da bi se suočili sa milijardama kubita potrebnih da se napravi praktični kvantni računar.
 
