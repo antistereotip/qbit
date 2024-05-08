@@ -36,7 +36,9 @@ mora imati dva različita stanja: jedno koje predstavlja 0 i jedno koje predstav
 u stanjima superpozicije, biti podvrgnut nekompatibilnim merenjima, pa čak i biti zapetljan sa drugim kvantnim bitovima. Sposobnost iskorištavanja moći
 superpozicije, interferencije i preplitanja čini kubite fundamentalno drugačijim i mnogo moćnijim od klasičnih bitova. Da bismo napravili kvantne računare i
 druge kvantne informacione tehnologije, potrebni su nam kvantni objekti koji će delovati kao kubiti. Naučnici su naučili da iskoriste i kontrolišu mnoge
-fizičke sisteme da deluju kao kubiti. Ovo nam omogućava da uskladimo zahteve različitih kvantnih tehnologija sa prednostima svake vrste kubita
+fizičke sisteme da deluju kao kubiti. Ovo nam omogućava da uskladimo zahteve različitih kvantnih tehnologija sa prednostima svake vrste kjubita.
+
+![](qbit2.png)
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
