@@ -1,5 +1,5 @@
 > - cQASM: kvantni programski jezik
-> - 
+
 QASM je nastao kao jezik za formalno definisanje kvantnog kola za prikazivanje slika u svrhu vizuelizacije. Kako se kvantno računanje razvijalo, jezik je usvojen
 kao način da se specifikuju kvantna kola kao ulaz za kvantni računar. QASM program deklariše klasične bitove i kjubite, opisuje operacije (gejtove) na tim kjubitima i
 merenja potrebna da bi se dobio klasični rezultat pregledom kjubita. Mnoge varijante KASM-a su ugledale svetlost od svog nastanka kao jezik za označavanje za
@@ -8,7 +8,7 @@ drugačije. cQASM se koristi za opisivanje relativno jednostavnih kola, što je 
 
 ##### Basic Example
 
-Počnimo sa primerom gde kreiramo stanje zvona da bismo stekli osećaj za jezik:
+> Počnimo sa primerom gde kreiramo stanje zvona da bismo stekli osećaj za jezik:
 
 ```
 # a basic cQASM example
