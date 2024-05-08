@@ -198,17 +198,33 @@ drugačije. cQASM se koristi za opisivanje relativno jednostavnih kola, što je 
 ```
 # a basic cQASM example
 qubits 2
-
 .prepare
     prep_z q[0:1]
-
 .entangle
     H q[0]
     CNOT q[0], q[1]
-
 .measurement
     measure_all
 ```
+
+##### Kjubit aliasi
+> Da bi cQASM bio čitljiviji, moguće je dodeliti mnemoničko ime kjubitu ili klasičnom bitu. Za ovo se koristi instrukcija mape:
+
+```
+version 1.0
+qubits 2
+map q[0], Control
+map q[1], Target
+map b[0], MeasuredControl
+
+prep_z Control
+prep_z Target
+H Control
+measure_z Control
+c-X MeasuredControl, Target
+measure_z Target
+```
+
 Izvor: https://www.quantum-inspire.com/kbase/cqasm/
 
 #### ZIGBEE KVANTNI NAČIN SLANJA PORUKE
