@@ -8,6 +8,8 @@
 >
 >  *Sve što trebate znati o* **superpozicijama u kvantnoj mehanici, fizici i kompjuterima**.
 
+![](image.png)
+
 #### KVANTNA SVOJSTVA (QBIT - KJUBIT)
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!! 
