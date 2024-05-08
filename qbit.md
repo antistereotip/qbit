@@ -26,6 +26,8 @@ LINK: https://www.youtube.com/watch?v=FWZCBj6lhCc&ab_channel=AktivistNo2
 
 #### KVANTNI RAČUNARI
 
+![](qbit2.png)
+
 > - Digitalni računar skladišti i obrađuje informacije koristeći bitove, koji mogu biti 0 ili 1. Fizički, bit može biti bilo šta što ima dve različite konfiguracije:
 jednu predstavljenu sa 0, a drugu sa 1. To može biti sijalica koja je uključena ili isključena, novčić koji je glava ili rep, ili bilo koji drugi sistem sa dve
 različite i prepoznatljive mogućnosti. U modernom računarstvu i komunikacijama, bitovi su predstavljeni odsustvom ili prisustvom električnog signala, koji
