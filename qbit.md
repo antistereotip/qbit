@@ -203,6 +203,7 @@ qubits 2
 .measurement
     measure_all
 ```
+Izvor: https://www.quantum-inspire.com/kbase/cqasm/
 
 #### ZIGBEE KVANTNI NAČIN SLANJA PORUKE
 
